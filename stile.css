@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(053, 255, 355);
+  background-color:#FDBC87;
 }
 
 h1 {
@@ -16,4 +16,11 @@ h3 {
 }
 p{
   font-family: monospace;
+}
+#foto{
+  border-radius: 100%;
+  border-style: solid;
+  border-color: rgb(8, 10, 10);
+  
+
 }
